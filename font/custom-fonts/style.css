@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'custom-fonts';
+  src:  url('fonts/custom-fonts.eot?9zkabu');
+  src:  url('fonts/custom-fonts.eot?9zkabu#iefix') format('embedded-opentype'),
+    url('fonts/custom-fonts.ttf?9zkabu') format('truetype'),
+    url('fonts/custom-fonts.woff?9zkabu') format('woff'),
+    url('fonts/custom-fonts.svg?9zkabu#custom-fonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'custom-fonts' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-flag:before {
+  content: "\e923";
+}
+.ic-tangle-up:before {
+  content: "\e253";
+}
+.ic-caret-down:before {
+  content: "\e900";
+}
+.ic-caret-up:before {
+  content: "\e901";
+}
+.ic-close:before {
+  content: "\e902";
+}
+.ic-label-left-arrow:before {
+  content: "\e903";
+}
+.ic-label-right-arrow:before {
+  content: "\e904";
+}
+.ic-user:before {
+  content: "\e905";
+}
+.ic-gas-station:before {
+  content: "\e906";
+}
+.ic-cog:before {
+  content: "\e907";
+}
+.ic-car-door:before {
+  content: "\e908";
+}
+.ic-location:before {
+  content: "\e909";
+}
+.ic-user-logged:before {
+  content: "\e90a";
+}
+.ic-recycle-bin:before {
+  content: "\e90b";
+}
+.ic-mark-plus:before {
+  content: "\e90c";
+}
+.ic-search:before {
+  content: "\e90d";
+}
+.ic-star:before {
+  content: "\e90e";
+}
+.ic-check-success:before {
+  content: "\e90f";
+}
+.ic-clock-expire:before {
+  content: "\e910";
+}
+.ic-new-folder:before {
+  content: "\e911";
+}
+.ic-notify-bell:before {
+  content: "\e912";
+}
+.ic-paper-plane:before {
+  content: "\e913";
+}
+.ic-phone:before {
+  content: "\e914";
+}
+.ic-statistics:before {
+  content: "\e915";
+}
+.ic-filled-star:before {
+  content: "\e916";
+}
+.ic-door:before {
+  content: "\e917";
+}
+.ic-electric:before {
+  content: "\e918";
+}
+.ic-email:before {
+  content: "\e919";
+}
+.ic-fuel:before {
+  content: "\e91a";
+}
+.ic-gear:before {
+  content: "\e91b";
+}
+.ic-trans-a:before {
+  content: "\e91c";
+}
+.ic-trans-m:before {
+  content: "\e91d";
+}
+.ic-half-filled-star:before {
+  content: "\e91e";
+}
+.ic-download:before {
+  content: "\e91f";
+}
+.ic-file:before {
+  content: "\e920";
+}
+.ic-message:before {
+  content: "\e921";
+}
+.ic-attachment:before {
+  content: "\e922";
+}
+
